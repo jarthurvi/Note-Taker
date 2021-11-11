@@ -28,7 +28,8 @@ This application allows you to make notes and save and delete new and old notes.
 ## Installation
 Click on the url link submitted to see the application at work. 
 
-## Usage 
+## Usage ![Screen Shot 2021-11-10 at 11 52 37 PM](https://user-images.githubusercontent.com/31134135/141239494-aa987fc1-f898-4ae3-8aba-9f2234c74486.png)
+
 Anyone can use this application. 
 
 ## Contribution
